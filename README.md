@@ -120,3 +120,6 @@ node src/app.js
   ]
 }
 ```
+# 3. Screenshot
+
+![Log Görüntüsü](screenshot.png)
